@@ -7,12 +7,12 @@
 # features used:
   { BrowserRouter, Route, NavLink, Switch, Redirect }
   
-  <BrowserRouter >        
-     <div className="App">
-        <Blog />
-     </div>
-  </BrowserRouter>
-  ...
+ # <BrowserRouter >        
+ #    <div className="App">
+ #       <Blog />
+ #    </div>
+ # </BrowserRouter>
+   ...
   
   <li>
     <NavLink to="/posts/" exact
